@@ -1,5 +1,5 @@
 # Turing-Simulation---Python
-## Turing machine based off of Wikipedia's formal definition: https://en.wikipedia.org/wiki/Turing_machine
+## Turing machine based off of Wikipedia's formal definition, which you can find by clicking [here](https://en.wikipedia.org/wiki/Turing_machine)
 
 Following Hopcroft & Ullman (1979, p. 148), a (one-tape) Turing machine can be formally defined as a 7-tuple M = ⟨ Q , Γ , b , Σ , δ , q 0 , F ⟩ where...
 - Γ is a finite, non-empty set of tape alphabet symbols;
